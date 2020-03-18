@@ -1,0 +1,4 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+20:51:27	39737/39737	---MCZ	200	added ('OK')	text/html	date:Wed,%2018%20Mar%202020%2020:48:21%20GMT	https://casemoose.fun/	C:/Users/joao7/OneDrive/Ambiente%20de%20Trabalho/Website/Csgo/casemoose.fun/index.html	(from )
+20:51:28	0/0	---MC-	404	error ('Not%20Found')	text/html	date:Wed,%2018%20Mar%202020%2020:48:21%20GMT	https://casemoose.fun/robots.txt		(from )
+20:51:28	14849/14849	---MCZ	200	added ('OK')	text/css	etag:W/%223a01-1708353611b%22	https://casemoose.fun/lib/sweet-alert.css	C:/Users/joao7/OneDrive/Ambiente%20de%20Trabalho/Website/Csgo/casemoose.fun/lib/sweet-alert.css	(from https://casemoose.fun/)

@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+casemoose.fun	TRUE	/	FALSE	1999999999	url	casemoose.fun
+casemoose.fun	TRUE	/	FALSE	1999999999	style	steamcommunity.com%2Flogin
+.casemoose.fun	TRUE	/	FALSE	1999999999	__cfduid	d8f78471aeee6ad94b57b5efe70a468391584564501
+casemoose.fun	TRUE	/	FALSE	1999999999	SameSite	Lax
+
